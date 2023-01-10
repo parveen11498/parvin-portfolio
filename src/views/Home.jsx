@@ -67,7 +67,7 @@ const Home = () => {
               ))}
             </div>
             <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
-              <a href="https://drive.google.com/file/d/1l4Y3f9V7dbrRx47l6U4_sWh3uGjmCoej/view" target="_blank" rel="noopener noreferrer"> <div>
+              <a href="https://drive.google.com/file/d/1TEyTJ5rCNIqbR5EXbGQ3qkyjXy7pXTjS/view" target="_blank" rel="noopener noreferrer"> <div>
                 
             <button className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-200 md:py-4 md:text-lg md:px-10" >Resume</button>
               </div></a>

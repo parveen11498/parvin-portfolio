@@ -1,7 +1,7 @@
 export const projects1 = [
   {
     title: 'MERN Chat-App',
-    description:"This is full Realtime chat application Using many advanced React & JavaScript  as well as with Socket.io, React, Redux, MongoDB, and Express, Stripe for card transactions.",
+    description:"This is full Realtime chat application  where users can interact  with each other.",
     image: '/images/2.png',
     tags: ['Mongo', 'Express', 'React', 'Node', 'socket.io', 'JavaScript'],
     frontend: 'https://github.com/parveen11498/mern-chat-frontend',
@@ -12,7 +12,7 @@ export const projects1 = [
   },
   {
     title: 'Blog App',
-    description: "Blog app using mern stack",
+    description: "In this blog app you can creae your own blog, update and delete the blog and view other users blogs"<br> "A part from the",
     image: '/images/4.png',
     tags: ['React', 'Mongodb', 'NODEJS', 'EXPRESS'],
     frontend: 'https://github.com/parveen11498/mern-blog-app/tree/main/src',
@@ -24,17 +24,17 @@ export const projects1 = [
 export const projects = [
   {
     title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives. The user can post delete update and search for particular memories and also they can like memories as well as comment to others memories.",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    frontend: 'https://github.com/parveen11498/fsd-memories',
+    frontend: 'https://github.com/parveen11498/memories-frontend',
     backend: 'https://github.com/parveen11498/memories-backend',
-    visit: 'https://mern-memories-two.vercel.app/',
+    visit: 'https://memories-frontend-cyuk.onrender.com',
     id: 0,
   },
   {
     title: 'E-commerce-Mern-App',
-    description: "e-commerce app with the MERN stack including Stripe and SocketIO.",
+    description: "This is e-commerce app where users can view the products search, add to cart and buy the following products through card payment. Admin can add the products , delete , update products and also admin can check the list of client,",
       image: '/images/3.png',
       tags: ['Mongo', 'Express', 'React', 'Node', 'socket.io'],
     frontend: 'https://github.com/parveen11498/ecommerce-mern-frontend',
@@ -44,9 +44,3 @@ export const projects = [
   },
 ];
 
-export const TimeLineData = [
-  { year: '2016-18', text: '12th passed in computer techniques', },
-  { year: '2018-21', text: 'Degree in software development', },
-  { year: '2021-22', text: 'completed the course of full stack developer', },
-
-];
